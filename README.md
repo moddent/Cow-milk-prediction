@@ -1,2 +1,4 @@
 # Cow milk prediction
- Aidea issue
+ Aidea issue.
+ Private RMSE:5.8x
+ 
